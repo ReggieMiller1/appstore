@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+<rect width="800" height="450" fill="#16a34a"/>
+<rect x="40" y="40" width="720" height="60" rx="12" fill="rgba(255,255,255,0.25)"/>
+<rect x="40" y="120" width="340" height="290" rx="16" fill="rgba(255,255,255,0.18)"/>
+<rect x="400" y="120" width="360" height="130" rx="16" fill="rgba(255,255,255,0.18)"/>
+<rect x="400" y="270" width="360" height="140" rx="16" fill="rgba(255,255,255,0.12)"/>
+<text x="400" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="white" text-anchor="middle">Cooperative Platform</text>
+</svg>
